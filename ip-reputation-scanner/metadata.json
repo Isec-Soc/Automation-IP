@@ -1,0 +1,5 @@
+{
+  "name": "IP Reputation Scanner",
+  "description": "An application to scan IP addresses against VirusTotal, AbuseIPDB, and Scamalytics for reputation analysis. Users can manage API keys and view aggregated results with severity indicators.",
+  "requestFramePermissions": []
+}
