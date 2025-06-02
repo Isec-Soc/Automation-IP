@@ -8,7 +8,7 @@ import LoadingSpinner from './components/LoadingSpinner'; // For IP check loadin
 
 // !!! IMPORTANT: This IP address is now set to allow access only from 106.51.108.122 !!!
 // If you need to allow other IPs, you must add them to this array.
-const ALLOWED_IPS: string[] = ['106.51.108.122'];
+const ALLOWED_IPS: string[] = ['106.51.108.122', '122.179.31.176'];
 
 type IpCheckStatus = 'checking' | 'allowed' | 'denied' | 'error';
 
